@@ -17,7 +17,7 @@ local driveby = {}
 gossipData = {
 	{ title="Hidden Cache" },
 	{ title="Beast Nest" },
-	{ title="Outlaw's Contract Board" }
+--	{ title="Outlaw's Contract Board" } -- for debugging purposes..
 }
 
 
@@ -57,7 +57,7 @@ function driveby:GOSSIP_SHOW(...)
 
 					local questIndex = misc:getQuestIndex(active, activeToComplete["quest"])
 					if questIndex ~= nil then
-						misc:consume(availableToComplete)
+						misc:consume(activeToComplete)
 						SelectGossipActiveQuest(questIndex[1])
 						return;
 					end
