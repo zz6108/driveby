@@ -1,3 +1,6 @@
+# Disclaimer - WORK IN PROGRESS
+driveby works as of now, but code cleanup & figuring out bugs & etc is still ongoing - use at your own risk until proper release!
+
 # What is driveby?
 > driveby is a small addon to grabbing `Hidden Caches` & smashing `Beast Nests` just a single click!
 > Driveby automatically uses the best key/bait you possess, or just smashes the Cache/Nest, all you need to do is click the Cache/Nest!
