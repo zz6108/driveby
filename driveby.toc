@@ -1,0 +1,11 @@
+## Interface: 30000
+## Title: driveby
+## Author: zz#6108
+## Version: 1.0.0
+## Notes: Yo, I'ma pop a cap in yo cache's arse!
+## SavedVariables: drivebyDebug
+## SavedVariablesPerCharacter: drivebyEnabled
+
+cmd.lua
+misc.lua
+driveby.lua
