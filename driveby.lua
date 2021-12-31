@@ -19,6 +19,7 @@ gossipData = {
 	{ title="Beast Nest" },
 	{ title="Void Forge" },
 	{ title="Volcanic Forge" },
+	{ title="Jurassic Forge"},
 --	{ title="Outlaw's Contract Board" } -- for debugging purposes..
 }
 

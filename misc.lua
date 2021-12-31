@@ -24,6 +24,10 @@ gossipQuests = {
     {quest="Epic: Smelt Dragonsteel", item="Pure Wyrmkin Trinket", count=5 },
     {quest="Rare: Smelt Dragonsteel", item="Impure Wyrmkin Trinket", count=5 },
     {quest="Uncommon: Smelt Dragonsteel", item="Tainted Wyrmkin Trinket", count=5 },
+    ---- Jurassic forge
+    {quest="Epic: Smelt Star Metal", item="Pure Meteorite Shards", count=5},
+    {quest="Rare: Smelt Star Metal", item="Impure Meteorite Shards", count=5},
+    {quest="Uncommon: Smelt Star Metal", item="Tainted Meteorite Shards", count=5},
 }
 
 function misc:chat(format, ...)
