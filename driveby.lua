@@ -17,6 +17,8 @@ local driveby = {}
 gossipData = {
 	{ title="Hidden Cache" },
 	{ title="Beast Nest" },
+	{ title="Void Forge" },
+	{ title="Volcanic Forge" },
 --	{ title="Outlaw's Contract Board" } -- for debugging purposes..
 }
 

@@ -16,6 +16,14 @@ gossipQuests = {
     {quest="Place Irresistible Bait", item="Irresistible Bait", count=1},
     {quest="Place Alluring Bait", item="Alluring Bait", count=1},
     {quest="Destroy Nest", item=nil, count=0},
+    ---- void forge
+    {quest="Epic: Smelt Chiten Alloy", item="Pure Fused Silithid Carapace", count=5},
+    {quest="Rare: Smelt Chiten Alloy", item="Impure Fused Silithid Carapace", count=5},
+    {quest="Uncommon: Smelt Chiten Alloy", item="Tainted Fused Silithid Carapace", count=5},
+    ---- Volcanic Forge
+    {quest="Epic: Smelt Dragonsteel", item="Pure Wyrmkin Trinket", count=5 },
+    {quest="Rare: Smelt Dragonsteel", item="Impure Wyrmkin Trinket", count=5 },
+    {quest="Uncommon: Smelt Dragonsteel", item="Tainted Wyrmkin Trinket", count=5 },
 }
 
 function misc:chat(format, ...)
