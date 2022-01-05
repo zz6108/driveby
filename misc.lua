@@ -28,6 +28,10 @@ gossipQuests = {
     {quest="Epic: Smelt Star Metal", item="Pure Meteorite Shards", count=5},
     {quest="Rare: Smelt Star Metal", item="Impure Meteorite Shards", count=5},
     {quest="Uncommon: Smelt Star Metal", item="Tainted Meteorite Shards", count=5},
+    ---- Corrupt Forge
+    {quest="Epic: Smelt Living Iron", item="Pure Living Irontree Bark", count=5},
+    {quest="Rare: Smelt Living Iron", item="Impure Living Irontree Bark", count=5},
+    {quest="Uncommon: Smelt Living Iron", item="Tainted Living Irontree Bark", count=5},
 }
 
 function misc:chat(format, ...)
